@@ -1,7 +1,9 @@
 # Getting Started
 
+```
 npm i react-scripts
 npm start
+```
 
 # Below is the project on which we based
 
