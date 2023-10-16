@@ -1,7 +1,7 @@
 # Getting Started
 
 ```
-npm i react-scripts
+npm i
 npm start
 ```
 
